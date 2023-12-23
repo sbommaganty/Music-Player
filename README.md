@@ -1,7 +1,7 @@
 ## 
 Android Music Player App with Efficient Track Routing:
 
-## Getting Started 🎧
+## Description 📋
 
 - Successfully designed and built an Android application that uses Android SDK to deliver an improved track routing and selection experience for users.
 - The application leverages the Bubble sort algorithm to prioritize recently played audio tracks and previews them at the top. This reduces the number of clicks to access tracks to a highly efficient two-step process.
