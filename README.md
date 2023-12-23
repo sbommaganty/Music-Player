@@ -1,5 +1,5 @@
-## 
-🎹 Android Music Player App with Efficient Track Routing:
+## Music player🎹
+- Android Music Player App with Efficient Track Routing:
 
 ## Description 📋
 
@@ -25,7 +25,7 @@ git clone <repository Url>
 
 **Run the application** 
 ```
-Use your Android phone for better experience.
+Use Ctrl + Shift + F9 to run the project. And also your Android phone for better experienc.
 ```
 ## Built With 🎯
 **Android Studio**
