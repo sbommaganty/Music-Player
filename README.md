@@ -32,7 +32,7 @@ git clone <repository Url>
 open index.html in Google Chrome for a better experience.
 ```
 ## Built With 🎯
-**Much love, a dash of HTML, a sprinkle of CSS, and a hint of JavaScript**
+**Android Studio**
 
 ## Acknowledgments 💖
 
