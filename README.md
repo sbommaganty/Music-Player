@@ -9,6 +9,9 @@ Android Music Player App with Efficient Track Routing:
 This project utilized the benefits of multiple technologies such as 
 - Android SDK
 - kotlin
+
+ ##Video :
+Here is the demo: https://github.com/sbommaganty/Music-Player/assets/87115621/e75817ed-b709-4954-923a-e2d28697a763
  
 ### Prerequisites
 You will need to install Android Studio. 
