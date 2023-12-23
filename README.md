@@ -13,12 +13,8 @@ This project utilized the benefits of multiple technologies such as
  ##Video :
 Here is the demo: https://github.com/sbommaganty/Music-Player/assets/87115621/e75817ed-b709-4954-923a-e2d28697a763
  
-### Prerequisites
+### Prerequisites☔
 You will need to install Android Studio. 
-
-## Installing☔
-
-Its pretty straightforward :
 
 **Clone the repo :** 
 ```
@@ -29,7 +25,7 @@ git clone <repository Url>
 
 **Run the application** 
 ```
-open index.html in Google Chrome for a better experience.
+Use your Android phone for better experience.
 ```
 ## Built With 🎯
 **Android Studio**
